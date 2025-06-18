@@ -23,7 +23,6 @@ Proyek ini dibangun menggunakan:
 - Numpy & Math untuk kalkulasi tambahan
 
 ## 🚀 Cara Menjalankan
-1. Clone repositori:
 ```bash
 git clone https://github.com/AgungNugrahaa/adidas_sales_EDA.git
 cd namarepo
