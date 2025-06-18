@@ -25,4 +25,4 @@ Proyek ini dibangun menggunakan:
 ## 🚀 Cara Menjalankan
 ```bash
 git clone https://github.com/AgungNugrahaa/adidas_sales_EDA.git
-cd namarepo
+cd adidas_sales_EDA
