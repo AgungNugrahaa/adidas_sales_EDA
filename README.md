@@ -1,27 +1,29 @@
 # 📊 Analisis Penjualan Retail
 
-Proyek ini melakukan analisis data penjualan dari berbagai retailer untuk menggali insight seperti:
+Proyek ini melakukan analisis data penjualan dari dataset penjualan adidas:
 - Produk paling laku
-- Retailer dengan profit tertinggi
-- Analisis margin berdasarkan metode penjualan
-- Tren penjualan per bulan dan wilayah
+- Retailer dengan total penjualan dan rata-rata margin tertinggi
+- Total Penjualan & Keuntungan Teratas menurut Wilayah
+- Penjualan dan Pertumbuhan Terbaik per Bulan
+- Rata-rata Margin Operasional menurut Metode Penjualan
+- 10 Penjualan Tertinggi di Negara Bagian
+- Produk yang Dijual per Wilayah
+- Produk Berdasarkan Margin vs Volume
 
 ## 📁 Dataset
 Dataset berisi informasi seperti:
-- Retailer, Tanggal, Region, Produk
-- Total Sales, Units Sold, Operating Profit, Sales Method
+- Retailer, Retailer ID, Invoice Date, Region, State, City, Product, Sales Method
+- Price per Unit, Units Sold, Total Sales, Operating Profit, Operating Margin
 
 ## ⚙️ Tools
+Proyek ini dibangun menggunakan:
 - Python (Google Colab)
-- Pandas, Matplotlib, Seaborn
-- Scikit-learn (untuk segmentasi dan prediksi)
-
-## 📈 Hasil Analisis
-Beberapa insight utama:
-- Produk A adalah yang paling banyak terjual
-- Retailer X menyumbang 40% dari total sales
-- Penjualan tertinggi terjadi di bulan Desember
-- Metode Online memiliki margin tertinggi (30%)
+- Pandas untuk manipulasi data
+- Matplotlib & Seaborn untuk visualisasi
+- Numpy & Math untuk kalkulasi tambahan
 
 ## 🚀 Cara Menjalankan
-1. Clone repo:
+1. Clone repositori:
+```bash
+git clone https://github.com/AgungNugrahaa/adidas_sales_EDA.git
+cd namarepo
