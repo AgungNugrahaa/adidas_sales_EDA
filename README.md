@@ -1,4 +1,4 @@
-# 📊 Analisis Penjualan Retail
+# 📊 Analisis Penjualan Adidas
 
 Proyek ini melakukan analisis data penjualan dari dataset penjualan adidas:
 - Produk paling laku
@@ -11,12 +11,11 @@ Proyek ini melakukan analisis data penjualan dari dataset penjualan adidas:
 - Produk Berdasarkan Margin vs Volume
 
 ## 📁 Dataset
-Dataset berisi informasi seperti:
+Dataset ini diperoleh dari kaggle.com.
 - Retailer, Retailer ID, Invoice Date, Region, State, City, Product, Sales Method
 - Price per Unit, Units Sold, Total Sales, Operating Profit, Operating Margin
 
 ## ⚙️ Tools
-Proyek ini dibangun menggunakan:
 - Python (Google Colab)
 - Pandas untuk manipulasi data
 - Matplotlib & Seaborn untuk visualisasi
