@@ -19,7 +19,7 @@ Dataset ini diperoleh dari kaggle.com.
 - Python (Google Colab)
 - Pandas untuk manipulasi data
 - Matplotlib & Seaborn untuk visualisasi
-- Numpy & Math untuk kalkulasi tambahan
+- Numpy & Math untuk kalkulasi
 
 ## 🚀 Cara Menjalankan
 ```bash
